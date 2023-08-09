@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 ## `LetsGrowMore`
-# Java Developer - LGM VIRTUAL INTERNSHIP PROGRAM 2023
+# Java Developer Intern - LGM VIRTUAL INTERNSHIP PROGRAM 2023
 
 <img src="https://user-images.githubusercontent.com/105943862/221399107-adbb0569-ac42-4695-8d04-4ed49c937821.png" alt="LetsGrowMore" width = "50%" align=right > 
 
@@ -189,15 +189,15 @@ To install and run any of these Java projects, you will need to have the followi
 
 
 Clone this repository using the following command:
-```sh
-git clone https://github.com/abhishek-0713/LGMVIP-Java.git
-```
+sh
+git clone https://github.com/Basavarajsm2102/LGMVIP-Java-Developer-Intern.git
+
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are *greatly appreciated*.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -221,9 +221,9 @@ Distributed under the Apache-2.0 License. See `LICENSE.txt` for more information
 <!-- CONTACT -->
 ## Contact
 
-LinkedIn - [@abhishek-d-patil-8b6780235](https://www.linkedin.com/in/abhishek-d-patil-8b6780235/) - abhishekpatil1924@gmail.com
+LinkedIn - [@basavarajsmadiwalar/](https://www.linkedin.com/in/basavarajsmadiwalar/) - basavarajsmadiwalar2102@gmail.com
 
-Project Link: [https://github.com/abhishek-0713/LGMVIP-Java](https://github.com/abhishek-0713/LGMVIP-Java)
+Project Link: [https://github.com/Basavarajsm2102/LGMVIP-Java-Developer-Intern](https://github.com/Basavarajsm2102/LGMVIP-Java-Developer-Intern)
 
 
 
@@ -244,6 +244,3 @@ Overall, I would highly recommend the LETSGROWMORE internship program to any stu
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-#   L G M V I P - J a v a - D e v e l o p e r - I n t e r n  
- 
