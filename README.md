@@ -189,9 +189,9 @@ To install and run any of these Java projects, you will need to have the followi
 
 
 Clone this repository using the following command:
-sh
+```sh
 git clone https://github.com/Basavarajsm2102/LGMVIP-Java-Developer-Intern.git
-
+```
 
 
 <!-- CONTRIBUTING -->
