@@ -221,7 +221,7 @@ Distributed under the Apache-2.0 License. See `LICENSE.txt` for more information
 <!-- CONTACT -->
 ## Contact
 
-LinkedIn - [@basavarajsmadiwalar/](https://www.linkedin.com/in/basavarajsmadiwalar/) - basavarajsmadiwalar2102@gmail.com
+LinkedIn - [Basavavaraj Madiwalar](https://www.linkedin.com/in/basavarajsmadiwalar/) - basavarajsmadiwalar2102@gmail.com
 
 Project Link: [https://github.com/Basavarajsm2102/LGMVIP-Java-Developer-Intern](https://github.com/Basavarajsm2102/LGMVIP-Java-Developer-Intern)
 
